@@ -1,4 +1,4 @@
-# Getting Started with Fawkes React Demo
+# Getting Started with React Demo
 
 This is an example of how to embed the smartspeak chatbot into a react app.
 
